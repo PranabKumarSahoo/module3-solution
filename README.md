@@ -3,7 +3,7 @@
 # Peer-graded Assignment: Module 3 Coding Assignment Solution
 # Description:-
   This is the 2nd coding assignment, just a simple webpage with fully responsive using HTML, CSS & BOOTSTRAP.
-  Which is consists:- Navbar, Page Heading, & Some text inside body.
+  Which is consists:- Navbar, Title, & Some text inside container.
   1. The default navbar implemented such that it scrolls away with the page, i.e., it's not statically attached to the top of bottom of the screen.
   2. The brand name "Food, LLC" properly aligned to the left of the navbar and does it use navbar-brand class.
   3. The dropdown menu button only visible when the browser is narrow enough to be in mobile view.
