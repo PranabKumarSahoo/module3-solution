@@ -11,4 +11,4 @@
   5. The page heading, "Our Menu", centered on the screen using the Bootstrap class.
   6. The single cell section (or multiple sections as per optional part of the assignment) using the Bootstrap Grid System and is the section tall enough to force the        viewer to scroll if they wanted to get to the bottom of the page.
  
-  Visit: [module3-solution](https://pranabkumarsahoo.github.io/module3-solution)
+  Visit Website: [module3-solution](https://pranabkumarsahoo.github.io/module3-solution)
